@@ -57,6 +57,7 @@ A task object has the following schema:
   "description": "This is a sample task",
   "completed": false
 }
+```
 
 Input Validation
 Input validation is implemented for task creation and updates. The title and description must not be empty, and the completion status must be a boolean value.
