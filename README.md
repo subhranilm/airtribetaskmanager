@@ -7,7 +7,7 @@ This project aims to create a simple RESTful API for managing tasks using Node.j
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/subhranilm/airtribetaskmanager.git)
 
 2. Navigate to the project directory:
 cd task-manager
