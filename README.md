@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 git clone <repository-url>
 
 2. Navigate to the project directory:
-cd task-manager-api
+cd task-manager
 
 3. Install dependencies:
 npm install
